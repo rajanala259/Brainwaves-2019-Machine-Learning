@@ -10,7 +10,7 @@ The Hackathon will be conducted in two phases:
 * **Offline Hackathon** – Shortlisted participants will receive exclusive invites to the 30-hour build challenge hosted by Societe Generale Global Solution Centre in Bangalore, which is scheduled to be hosted in March 2019. The Brainwaves final coding challenge will let you build solutions for real-world banking challenges. The Machine Learning track allows for individual and team participation. Gender diverse teams that build effective solutions stand the chance to win cash prizes
 
 Link to Competition
-https://www.hackerearth.com/challenge/competitive/brainwaves-machine-learning/
+https://www.hackerearth.com/challenge/competitive/brainwaves-machine-learning/leaderboard/
 
 ## Leaderboard
 
