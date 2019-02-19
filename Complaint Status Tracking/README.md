@@ -44,3 +44,7 @@ Please submit the prediction as a .csv file in the format described below and in
 
 ### Evaluation
 **The submissions will be evaluated on the f1 score with ‘weighted’ average.**
+
+### Public Score
+
+**76.09**
