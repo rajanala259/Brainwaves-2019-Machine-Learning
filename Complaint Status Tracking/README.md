@@ -9,40 +9,38 @@ Societe Generale Global Solution Centre (SG GSC) is hosting the fifth edition of
 
 # Problem Statement
 
-** A financial institution news agency has collected 3000 news articles that relates to several matters of financial importance. Before analyzing these unlabeled news, it is only fair to try to partition them into some sort of logical groupings based on their similarities.**
+Societe Generale (SocGen) is a French multinational banking and financial services company. With over 1,54,000 employees, based in 76 countries, they handle over 32 million clients throughout the world on a daily basis.
 
-**Your task is to use appropriate unsupervised machine learning algorithm to form the news clusters based on their similarity. Prior to clustering it is recommended to perform basic natural language processing steps such as stemming, tokenization and word vectorization for best results.  **
+They provide services like retail banking, corporate and investment banking, asset management, portfolio management, insurance and other financial services.
 
-Notes to keep in mind:
+While handling customer complaints, it is hard to track the status of the complaint. To automate this process, SocGen wants you to build a model that can automatically predict the complaint status (how the complaint was resolved) based on the complaint submitted by the consumer and other related meta-data.
 
-There are no duplicate rows in the dataset.
-
-Cluster number should start from 0.
-
-### Data Description
-There is only one file news.csv that contains date, headlines and text of the news.
+## Data Description
+The dataset consists of three files: train.csv, test.csv and sample_submission.csv.
 
 |Column|Description|
 |------|------|
-|id|The unique id of the news|
-|headline|The headline of the news in text|
-|text|The body of the news in text|
+|Complaint-ID|Complaint Id|
+|Date received|Date on which the complaint was received|
+|Transaction-Type|Type of transaction involved|
+|Complaint-reason|Reason of the complaint|
+|Consumer-complaint-summary|Complaint filed by the consumer - Present in three languages :  English, Spanish, French|
+|Company-response|Public response provided by the company (if any)|
+|Date-sent-to-company|Date on which the complaint was sent to the respective department|
+|Complaint-Status|Status of the complaint (Target Variable)|
+|Consumer-disputes|If the consumer raised any disputes|
 
 
-### Submission
-The submission file should be a zip containing a .txt and .csv file. Both should have 3000 rows.
+### Submission Format
+Please submit the prediction as a .csv file in the format described below and in the sample submission file.
 
-.txt file should contain the matrix / ndarrays you are using to create clusters.
-.csv should contain the cluster of customers against every store.
-Format of the csv file:
-
-|id|cluster|
+|Complaint-ID|Complaint-Status|
 |------|------|
-|uid-1|0|
-|uid-2|0|
-|uid-3|1|
-|uid-4|1|
-|uid-5|4|
+|Te-1|Closed with explanation|
+|Te-2|Closed with explanation|
+|Te-3|Closed with explanation|
+|Te-4|Closed with non-monetary relief|
+|Te-5|Closed with explanation|
 
-### Evaluation Metric
-The submissions will be evaluated on silhouette score. Please read more about the metrics here.
+### Evaluation
+**The submissions will be evaluated on the f1 score with ‘weighted’ average.**
