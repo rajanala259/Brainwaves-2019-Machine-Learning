@@ -19,5 +19,5 @@ https://docs.google.com/spreadsheets/d/1A3izhn3cUm32WmghfzF5r269xzvPR2lqDb1GbJb0
 
 **Public Leaderboard : 11th rank**
 
-**Private Leaderboard : 12th rank**
+**Private Leaderboard : 8th rank**
 
