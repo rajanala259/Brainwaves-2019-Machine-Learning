@@ -15,6 +15,9 @@ https://www.hackerearth.com/challenge/competitive/brainwaves-machine-learning/
 Leaderboard
 https://docs.google.com/spreadsheets/d/1A3izhn3cUm32WmghfzF5r269xzvPR2lqDb1GbJb0zJo/edit?usp=sharing
 
+Shortlist
+https://docs.google.com/spreadsheets/d/1DP0TG1Go5fd8ZeSW8W9eLimDHhrd6JURfwy-y3tCfjM/edit#gid=0
+
 ## Leaderboard
 
 **Public Leaderboard : 11th rank**
