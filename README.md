@@ -18,9 +18,29 @@ https://docs.google.com/spreadsheets/d/1A3izhn3cUm32WmghfzF5r269xzvPR2lqDb1GbJb0
 Shortlist
 https://docs.google.com/spreadsheets/d/1DP0TG1Go5fd8ZeSW8W9eLimDHhrd6JURfwy-y3tCfjM/edit#gid=0
 
+# Online Hackathon 
 ## Leaderboard
 
 **Public Leaderboard : 11th rank**
 
 **Private Leaderboard : 8th rank**
 
+# Offline Hackathon
+
+Offline Hackathon held on 16-17 March. We had to code overnight, The Problem statement was based on **Text Extraction** and how to apply ML in daily life to reduce human effort and increase productivity.
+
+The Solution was judged on Private LB score, along with a Panel Presentation and code.
+
+## Leaderboard
+
+**Public Test Leaderboard**
+
+![title](p2.png)
+
+
+**Private Test Leaderboard**
+
+![title](p1.png)
+
+# Overall Ranking 3rd
+*Lost to 2nd by 0.5 Marks* :(
