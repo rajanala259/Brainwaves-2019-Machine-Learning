@@ -1,4 +1,5 @@
-![title](bw.JPG)
+![title](../bw.JPG)
+
 # Brainwaves Offline Hackathon
 
 # Problem Statement
